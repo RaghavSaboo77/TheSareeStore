@@ -14,7 +14,7 @@ import 'package:sareesonline/screens/user_products_screen.dart';
 import './screens/product_detail_screen.dart';
 import './screens/products_overview_screen.dart';
 
-//Welcome to my web and android sarees app
+//Welcome to my web and android sarees app which use firebase for authentication and storing users and saree's data
 
 void main() => runApp(MyApp());
 
